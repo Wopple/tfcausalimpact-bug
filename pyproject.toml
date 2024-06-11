@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "sandbox"
+name = "tfcausalimpact-bug"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Daniel Tashjian <thewopple@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.11,<3.12"
+python = "=3.11.4"
 pandas = "=2.2"
 tensorflow = "=2.16.1"
 tfcausalimpact = "=0.0.15"
